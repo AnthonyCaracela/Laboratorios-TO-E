@@ -1,0 +1,5 @@
+build/
+*.user
+*.exe
+ejercicio_resuelto_?
+ejercicio_propuesto_?
